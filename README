@@ -1,0 +1,9 @@
+DESCRIPTION
+
+Created as a test task for Intel Winter school - 2010. Passed, but not attended.
+
+
+DETAIL
+
+Linux, uses some pragmas, preliminary cache miss optimization and pure C.
+Haven't profiled yet.
